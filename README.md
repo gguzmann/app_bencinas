@@ -10,13 +10,16 @@ Apliacioón móvil para encontrar las mejores opciones de bencineras cercanas y 
 
 3. Precio más barato: Resalta gasolinera con precio de combustible más barato.
 
+## Levantar Proyecto
+
+    npm i
+    npm run start
 
 <h2 align="center">DEMO</h3> 
 
 <p align="center">
     <img src="./assets/demo.png" alt="Texto alternativo" width="200">
 </p>
-
 
 
 
