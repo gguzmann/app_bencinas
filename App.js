@@ -41,13 +41,6 @@ export default function App() {
         latitudeDelta: 0.0462,
         longitudeDelta: 0.0271,
       })
-      // mapRef.current.animateToRegion({
-      //   latitude,
-      //   longitude,
-      //   latitudeDelta: 0.0922,
-      //   longitudeDelta: 0.0421,
-      // }, 1000);
-
     })();
   }, []);
 
