@@ -1,6 +1,6 @@
 # APP PRECIO BENCINAS
 
-    Apliacioón móvil para encontrar las mejores opciones de bencineras cercanas y precios de combusitbles de acuerdo a la ubicación en que te encuentres. Información obtenida desde api de Comisión Nacional de Energia.
+Apliacioón móvil para encontrar las mejores opciones de bencineras cercanas y precios de combusitbles de acuerdo a la ubicación en que te encuentres. Información obtenida desde api de Comisión Nacional de Energia.
 
 ## Caracteristicas:
 
